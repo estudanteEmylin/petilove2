@@ -3,6 +3,10 @@
     padding:0;
 
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho{
     background-color:#fcfbfb;
     color: rgb(148, 83, 9);
@@ -16,7 +20,7 @@
 width: 20%;
 }
 .cabecalho-lista-item{
-    display: inline-block;
+    display: inline;
     margin:0 16px;
     
 }
